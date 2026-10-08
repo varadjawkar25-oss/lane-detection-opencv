@@ -2,8 +2,6 @@
 
 A computer vision project that detects and highlights **left and right lane markings** in road images using classical image processing techniques: Gaussian blur, Canny edge detection, a trapezoidal Region of Interest, and the probabilistic Hough transform. The notebook explains every stage with markdown notes and shows the full process in a 6-panel visualization.
 
-[**Open in Google Colab**](YOUR_COLAB_LINK_HERE)
-
 ---
 
 ## Features
